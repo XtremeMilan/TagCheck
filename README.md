@@ -1,4 +1,4 @@
-# YouTube-Video-Tag-Analyzer
+# YouTube-Video-Tags-Analyzer
 An open-source Python tool for analyzing and managing video tags on YouTube. This project allows you to extract and compare video tags from a given YouTube video and other related videos, providing insights into popular tags within a specific niche and ultimately applying them to the specified video.
 
 ## Prerequisites
@@ -59,4 +59,4 @@ This project is an open-source tool provided as-is without any warranty. The dev
 
 ---
 
-Happy tagging! If you have any questions or need further assistance, please don't hesitate to reach out.
+Feel free to reach out and discuss any further improvements and opportunities related to the project.
