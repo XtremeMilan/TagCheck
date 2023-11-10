@@ -39,7 +39,7 @@ pip install -r requirements.txt
 1. Run the program using the following command:
 
 ```bash
-python Main.py
+python main.py
 ```
 
 2. The program will fetch the top tags from related videos and update the tags of the specified video using the YouTube API.
