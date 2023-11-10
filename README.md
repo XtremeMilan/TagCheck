@@ -32,7 +32,7 @@ pip install -r requirements.txt
    - Enable the YouTube Data API v3.
    - Generate an API key restricted to the YouTube Data API.
 
-4. Once you have your API key, replace `'YOUR_API_KEY'` with your actual key in the `Main.py` file.
+4. Once you have your API key, replace `'YOUR_API_KEY'` with your actual key in the `main.py` file.
 
 ## Usage
 
