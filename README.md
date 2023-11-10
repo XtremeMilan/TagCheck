@@ -16,7 +16,7 @@ To begin using the YouTube Video Tags Tool, follow these steps:
 1. Clone the repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/XtremeMilan/youtube-video-tags-analyzer.git
+git clone https://github.com/XtremeMilan/Youtube-Video-Tags-Analyzer.git
 ```
 
 2. Install the required Python dependencies by running:
