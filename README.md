@@ -1,62 +1,59 @@
 # YouTube-Video-Tags-Analyzer
-An open-source Python tool for analyzing and managing video tags on YouTube. This project allows you to extract and compare video tags from a given YouTube video and other related videos, providing insights into popular tags within a specific niche and ultimately applying them to the specified video.
+
+Explore the capabilities of our open-source Python tool designed to streamline the analysis and management of video tags on YouTube. This project simplifies the process of extracting and comparing video tags from a specified YouTube video and related content. Gain insights into popular tags within your niche and efficiently apply them to enhance the visibility and categorization of your video.
 
 ## Prerequisites
 
-Before using this project, ensure you have the following:
+Before utilizing this tool, ensure you have the following:
 
-- Python 3.7 or higher installed on your system
+- Python 3.7 or a higher version installed on your system
 - YouTube Data API credentials (API key)
 
 ## Getting Started
 
-To get started with the YouTube Video Tags Updater, follow these steps:
+To begin using the YouTube Video Tags Tool, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/mynk801/youtube-tags-updater.git
+git clone https://github.com/XtremeMilan/youtube-video-tags-analyzer.git
 ```
 
-2. Install the required Python dependencies by running the following command:
+2. Install the required Python dependencies by running:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Obtain your YouTube Data API credentials by following these steps:
+3. Obtain your YouTube Data API credentials:
 
    - Visit the [Google Developers Console](https://console.developers.google.com/).
-   - Create a new project or select an existing project.
-   - Enable the YouTube Data API v3 for your project.
-   - Create an API key for the project.
-   - Make sure to restrict the API key to only have access to the YouTube Data API.
+   - Create or select a project.
+   - Enable the YouTube Data API v3.
+   - Generate an API key restricted to the YouTube Data API.
 
-4. Once you have your API key, open the `Main.py` file and replace `'YOUR_API_KEY'` with your actual API key.
+4. Once you have your API key, replace `'YOUR_API_KEY'` with your actual key in the `Main.py` file.
 
 ## Usage
 
-1. Run the program using the following command:
+1. Execute the program with the command:
 
 ```bash
 python main.py
 ```
 
-2. The program will fetch the top tags from related videos and update the tags of the specified video using the YouTube API.
+2. The tool will retrieve top tags from related videos and update the specified video's tags using the YouTube API.
 
-3. Once the process is complete, you can check the updated tags for your video on the YouTube Studio dashboard.
+3. Check the updated tags for your video on the YouTube Studio dashboard.
 
 ## Contributing
 
-Contributions to this project are welcome! If you encounter any issues or have ideas for improvements, please open an issue or submit a pull request on the GitHub repository.
-
-When contributing, please adhere to the existing code style and ensure that your changes are well-documented.
-
+Contributions to this project are welcome. Report issues or propose improvements by opening an issue or submitting a pull request on the GitHub repository. Adhere to the existing code style and ensure proper documentation.
 
 ## Disclaimer
 
-This project is an open-source tool provided as-is without any warranty. The developers are not responsible for any misuse or damage caused by this software. Use it responsibly and respect the terms of service of the platforms you interact with.
+This project is an open-source tool provided without warranty. The developers disclaim responsibility for any misuse or damage caused by this software. Use it responsibly and comply with the terms of service of the platforms you interact with.
 
 ---
 
-Feel free to reach out and discuss any further improvements and opportunities related to the project.
+For further discussions on improvements or opportunities related to the project, feel free to reach out.
